@@ -1,12 +1,4 @@
-//版本号  2503 
-//        https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt
-//       http://99.weidonglong.com/99.txt
-//         
 
-
-
-	   
-央视频道,#genre#
 哪吒,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 哪吒,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/2000k/hls/mixed.m3u8
 哪吒,https://v1.fentvoss.com/sdv1/202308/19/aeKFrRw7bj2/video/index.m3u8
